@@ -41,14 +41,14 @@
         <reverted_from/>
         <source>c075f3101b2100101f68877ddc4bcb95</source>
         <source_table>sys_upgrade_history</source_table>
-        <state>previous</state>
+        <state>current</state>
         <sys_created_by/>
         <sys_created_on>2019-12-02 13:03:28</sys_created_on>
         <sys_id>624361b61b6100101f68877ddc4bcb1b</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>16ec6b569000000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-09 20:58:56</sys_updated_on>
         <type>Answer</type>
         <update_guid>224361b6c8610010f8d8a83a3159cb1b</update_guid>
         <update_guid_history>224361b6c8610010f8d8a83a3159cb1b:313337594</update_guid_history>
